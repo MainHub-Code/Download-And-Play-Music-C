@@ -1,3 +1,3 @@
 # Download-And-Play-Music-C
 
-In this C program a just make something to learn coding C and how to use git with github and push files / folders and do anything i want. This C code is only for play music that i have push them in Library/Music only. It check's if the Library is available if it is. kt available than you have to download the Library or you can make a folder could Library/Music/ and then make all the songs that you what and check for the name rename them to my Library music
+In this C program I just make something to learn C language and how to use git with github and push files / folders. This C code is to play music that i have push them in Library/Music only. It check's if the Library is available if it is not available than you have to download the Library or you can make a folder could Library/Music/ and then make all the songs that you what and check for the name rename them to my Library musics name.
